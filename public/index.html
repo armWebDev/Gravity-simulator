@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas Example</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body,
+        html {
+            height: 100%;
+            margin: 0;
+            background-color: rgb(22, 213, 254);
+        }
+
+        .container {
+            display: grid;
+            place-items: center;
+            height: 100%;
+        }
+
+        canvas {
+            background-color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="startScreen" class="start-screen">
+        <h1 class="game-title">Gravity simulator</h1>
+        <button id="playButton" class="play-button">Play Now</button>
+      </div>    
+    <div class="container">
+        <canvas id="myCanvas" class="game-canvas" width="700" height="700"></canvas>
+       
+    </div>
+    <button id="resetButton" class="reset-button">Reset</button>
+    <script src="script.js"></script>
+</body>
+
+</html>
