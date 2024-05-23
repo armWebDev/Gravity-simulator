@@ -34,7 +34,7 @@ Thank you for providing this valuable learning experience.
 1. Clone the repository:
    ```sh
    git clone git clone https://github.com/armWebDev/Gravity-simulator.git
-   cd Gravity simulator
+   cd Gravity-simulator
    ```
 
 2. Install dependencies:
