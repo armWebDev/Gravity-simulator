@@ -2,7 +2,7 @@
 This is a simple bouncing balls game implemented using HTML5 Canvas and TypeScript. The game displays a start screen with a play button. When the play button is clicked, the game starts and balls bounce around the canvas. The game also features a reset button to restart the game.
 
 ## Table of Contents
-- [Goal](https://github.com/armWebDev/Gravity-simulator/edit/main/README.md#goal)
+- [Goal](#goal)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
