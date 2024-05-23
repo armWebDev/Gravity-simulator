@@ -33,7 +33,7 @@ Thank you for providing this valuable learning experience.
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bouncing-balls-game.git
+   git clone https://github.com/armWebDev/Gravity-simulator/tree/master
    cd Gravity simulator
    ```
 
