@@ -33,7 +33,7 @@ Thank you for providing this valuable learning experience.
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/armWebDev/Gravity-simulator/tree/master
+   git clone https://github.com/armWebDev/Gravity-simulator.git
    cd Gravity simulator
    ```
 
